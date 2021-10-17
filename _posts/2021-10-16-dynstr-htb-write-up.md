@@ -1,7 +1,7 @@
 ---
 title: dynstr - Hack the Box Write-Up
 published: true
-image: ./assets/dynstr-htb-write-up/dynstr-htb-write-up.png
+image: ./media/dynstr/dynstr.png
 ---
 **Difficulty**: Medium. **OS**: Linux.
 
