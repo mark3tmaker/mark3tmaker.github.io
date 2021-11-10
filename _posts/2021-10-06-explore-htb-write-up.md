@@ -1,7 +1,7 @@
 ---
 title: Explore - Hack the Box Write-Up
 published: true
-image: /media/explore.png
+image: /media/explore/explore.png
 ---
 **Difficulty**: Easy. **OS**: Android.
 
