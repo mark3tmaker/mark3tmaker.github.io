@@ -1,7 +1,7 @@
 ---
 title: Static - Hack the Box Write-Up
 published: true
-image: media/static/static.png
+image: media/Static/static.png
 ---
 **Difficulty**: Hard. **OS**: Linux.
 
