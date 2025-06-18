@@ -1,8 +1,8 @@
-title: HTB Write-ups
+title: Some tech blog on internet
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "elpollon"
-  email: "someone@somewebsite.somedomain"
+  name: "marketmaker"
+  email: "sbarriacollante@gmail.com"
   url: "https://ashishchaudhary.in/hacker-blog"
 
 baseurl: /
